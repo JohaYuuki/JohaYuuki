@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohaYuuki
 - 👀 I’m interested in coding, programming and telecommunication
-- 🌱 I’m currently learning Riot-OS coding
-- 💞️ I’m looking to collaborate on Riot-OS
+- 🌱 I’m currently learning Lua coding for Game Design
+- 💞️ I’m looking to collaborate on Game Design
 - 📫 How to reach me Email: fita171297@gmail.com
 -                     Discord: Yuuki#0749
 
